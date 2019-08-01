@@ -9,7 +9,7 @@ You need the extra modules installed for the MOG background subtractor. The easi
 
 _pip install opencv-contrib-python_
 
-![](images/diff-overlay.jpg)
+![](diff-overlay.jpg)
 
 ## Command Format
 
