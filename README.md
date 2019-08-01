@@ -5,6 +5,7 @@ This application is useful to see movement patterns over time. For example, it c
 ## Dependencies
   * opencv
   * numpy
+
 You need the extra modules installed for the MOG background subtractor. The easiest way to install it was using:
 
 _pip install opencv-contrib-python_
